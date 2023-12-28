@@ -31,3 +31,9 @@ rental prices. Provide insights into how specific features impact rental prices.
 #### 7. Deployment:
 Once a satisfactory model is developed, deploy it as a user-friendly web application or
 API where users can input property details and receive rent predictions.
+
+## Expected Outcomes:
+The successful implementation of the house rent prediction model will provide property owners,
+tenants, and property management companies with a tool to estimate rental prices accurately.
+This will enhance transparency, aid in decision-making, and contribute to a more efficient and
+equitable rental market.
